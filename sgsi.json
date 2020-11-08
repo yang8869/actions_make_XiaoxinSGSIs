@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/20.11.5/miui_LAVENDER_20.11.5_f1385b6459_10.0.zip",
-  "rom_name": "miui_LAVENDER_20.11.5_f1385b6459_10.0.zip",
-  "pack_sgsi": "HMNote7.7z",
+  "rom_url": "https://hugeota.d.miui.com/20.11.5/miui_PYXIS_20.11.5_921acf53d4_10.0.zip",
+  "rom_name": "miui_PYXIS_20.11.5_921acf53d4_10.0.zip",
+  "pack_sgsi": "XM CC9.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
