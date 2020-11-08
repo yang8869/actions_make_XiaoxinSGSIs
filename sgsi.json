@@ -1,7 +1,7 @@
 {
   "rom_url": "https://hugeota.d.miui.com/20.11.5/miui_PYXIS_20.11.5_921acf53d4_10.0.zip",
   "rom_name": "miui_PYXIS_20.11.5_921acf53d4_10.0.zip",
-  "pack_sgsi": "XM CC9.7z",
+  "pack_sgsi": "XIAOMICC9.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
